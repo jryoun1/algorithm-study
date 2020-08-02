@@ -39,13 +39,13 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 
 로컬 브랜치가 있는 폴더에서 개인작업을 마친 후 공동 저장소에 반영한다.
 
-1. <code> **git checkout yeon** </code> - master에서 ohhako 브랜치로 전환
+1. <code> **git checkout yeon** </code> - master에서 yeon 브랜치로 전환
 2. workspace에서 작업
 3. <code> **git commit -m "message"**</code>
-4. <code> **git push origin yeon** </code> - 원격저장소 ohhako 브랜치에 반영
+4. <code> **git push origin yeon** </code> - 원격저장소 yeon 브랜치에 반영
 5. <code> **git checkout master** </code> - 브랜치 전환
 6. <code> **git pull** </code> - 원격저장소 master의 최신 정보를 로컬에 업데이트 시키기
-7. <code> **git merge yeon** </code> - master에 ohhako 브랜치 작업 반영
+7. <code> **git merge yeon** </code> - master에 yeon 브랜치 작업 반영
 8. <code> **git push origin master** </code> - 원격저장소 master에 반영
 
 ## <br><br>
