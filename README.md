@@ -50,6 +50,12 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 
 ## <br><br>
 
+### :rainbow: Week Study
+
+|        | 1                                                            | 2                                                            | 3                                                            |
+| :----: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1주차  | [k번째 수] (https://programmers.co.kr/learn/courses/30/lessons/42748)           |
+
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 - [TehCopens/algorithm-study] (https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
 
