@@ -37,7 +37,7 @@ def solution(array, commands):
     return answer
 ``` 
 ### 수행 속도
-![img load fail](./imgs/selectionSortpython.PNG)
+![img load fail](./images/selectionSortpython.PNG)
 
 ## c++ code
 ```c++
@@ -78,7 +78,7 @@ vector<int> solution(vector<int> array, vector<vector<int>> commands) {
 }
 ```
 ### 수행속도
-![img load fail](./imgs/selectionSortc++.PNG)
+![img load fail](./images/selectionSortc++.PNG)
 
 ## 시간복잡도
 1 2 3 4 5 6 7 8 9 10의 원소를 가지는 배열이 있다고 하면 1은 10번 비교를 해야하며, 2는 9번, 3은 8번,... 9는 2번, 10은 1번의 비교를 하게된다. <br>
