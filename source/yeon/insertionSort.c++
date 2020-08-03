@@ -5,17 +5,16 @@
 
 using namespace std;
 void insertionSort(vector<int> &arr){
-    int temp =0, min =0, len = arr.size();
+    int j , key = 0, len = arr.size();
     for(int i = 1; i < len; i++){
-        min = i;
-        for(int j = i-1; j >= 0; j--){
-            if(arr[min] < arr[j]){
-                temp = arr[min];
-                arr[min] = arr[j];
-                arr[j] = temp;
-                min = j;
+        key = arr[i];
+        for(j = i-1; j >= 0; j--){
+            if(key < arr[j]){
+                arr[j+1] = arr[j];
             }
+            else break;
         }
+        arr[j+1] = key;
     }
 } 
 
