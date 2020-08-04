@@ -77,9 +77,9 @@ vector<int> solution(vector<int> array, vector<vector<int>> commands) {
 ![img load fail](../images/insertionSortc++.png)
 
 ## 시간복잡도
-최선의 경우 : O(N) -> 데이터가 이미 정렬된 상태
-평균 시간 : O(N^2)
-최악의 경우 : O(N^2) -> 데이터가 역순으로 정렬된 상태
+최선의 경우 : O(N) -> 데이터가 이미 정렬된 상태 <br>
+평균 시간 : O(N^2) <br>
+최악의 경우 : O(N^2) -> 데이터가 역순으로 정렬된 상태 <br>
 
 ## 공간복잡도
 
