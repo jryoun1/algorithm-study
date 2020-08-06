@@ -1,7 +1,7 @@
  # 목차
-- [안정 정렬(Stable)](#1-안정-정렬stable)
-- [불안정 정렬(Unstable)](#2-불안정-정렬unstable)
-- [대표적인 안정, 불안정 정렬 알고리즘 예시](#3-정렬-알고리즘-분류classify)
+- [안정 정렬(Stable)](#1-안정-정렬-stable)
+- [불안정 정렬(Unstable)](#2-불안정-정렬-unstable)
+- [대표적인 안정, 불안정 정렬 알고리즘 예시](#3-정렬-알고리즘-분류-classify)
 - [In-place Algorithm](#4-in-place-algorithm)
 
 먼저 정렬을 들어가기 전에 2가지 개념에 대해 이해를 하고 가자. <br>
@@ -12,7 +12,7 @@
 정렬의 안정적 특성이란 정렬되지 않은 상태에서 같은 키 값을 가진 원소의 순서가 정렬 후에도 유지되는가를 의미한다.
 이러한 정렬의 안정적 특성에 따라서 정렬 알고리즘은 안정 정렬과 불안정 정렬로 구분 할 수 있습니다.
 
-![img load fail](../images/pokercard.png)
+<img src="https://github.com/jryoun1/algorithm-study/blob/master/source/yeon/images/pokercard.png" width="500" height="200">
 
 예를 들어, 위의 그림과 같은 포커 카드에 대해서 번호를 키값으로 하여 오름차순으로 정렬하고자 합니다
 이때, 아래 그림의 경우 정렬 후에도 하트4 뒤쪽에 스페이스4가 위치하게 하고 싶고 싶은 것이 바로 안정적 정렬이다.
@@ -20,23 +20,23 @@
 
 #### <a id="stable"></a>
 
-## 1 안정 정렬stable
-![img load fail](../images/pokercardstable.png)
+## 1 안정 정렬 stable
+<img src="https://github.com/jryoun1/algorithm-study/blob/master/source/yeon/images/pokercardstable.png" width="500" height="200">
 
 안정 정렬의 경우에는 정렬 후에도 원래의 순서가 유지되며, 결과는 위의 사진과 같다.<br>
 정렬된 결과에서 하트4와 스페이스4의 순서가 그대로 유지되고 있음을 확인 할 수 있다.<br>
 
 #### <a id="unstable"></a>
 
-## 2 불안정 정렬unstable
-![img load fail](../images/pokercardunstable.png)
+## 2 불안정 정렬 unstable
+<img src="https://github.com/jryoun1/algorithm-study/blob/master/source/yeon/images/pokercardunstable.png" width="500" height="200">
 
 불안정 정렬의 경우에는 정렬 후에도 원래의 순서가 유지된다는 보장을 할 수 없으며, 결과는 위의 그림과 같을 수 있다.<br>
 안정 정렬의 결과와는 달리 스페이스4와 하트4의 순서가 바뀐 모습을 확인 할 수 있다.<br>
 
 #### <a id="classify"></a>
 
-#### 3) 정렬 알고리즘 분류<br>
+## 3 정렬 알고리즘 분류 classify
 Stable Sorting 알고리즘은 다음과 같다:
 
 - Insertion Sort
