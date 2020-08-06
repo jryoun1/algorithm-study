@@ -70,7 +70,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 |        | 1  | 2 | 3 | 날짜 |
 | :---: | :---: | :---: | :---: | :---: |
 | 1주차  | [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)   |   |   | 2020.08.06(목)
-| 2주차  | [1181: 단어정렬][https://www.acmicpc.net/problem/1181](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬] acmicpc.net/problem/10814 |   | 2020.08.013(목)
+| 2주차  | [1181: 단어정렬](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬](https://www.acmicpc.net/problem/10814) |   | 2020.08.013(목)
 
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
