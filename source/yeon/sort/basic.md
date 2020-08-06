@@ -1,9 +1,8 @@
- 목차
-
-- [안정 정렬(Stable)](#1-안정-정렬stable)<br>
-- [불안정 정렬(Unstable)](#2-불안정-정렬unstable)<br>
-- [대표적인 안정, 불안정 정렬 알고리즘 예시](#3-정렬-알고리즘-분류classify)<br>
-- [In-place Algorithm](#3-in-place-algorithm)<br>
+ # 목차
+- [안정 정렬(Stable)](#1-안정-정렬stable) <br>
+- [불안정 정렬(Unstable)](#2-불안정-정렬unstable)
+- [대표적인 안정, 불안정 정렬 알고리즘 예시](#3-정렬-알고리즘-분류classify)
+- [In-place Algorithm](#3-in-place-algorithm)
 
 먼저 정렬을 들어가기 전에 2가지 개념에 대해 이해를 하고 가자. <br>
 첫 번째는 **Stable**이고 두 번째는 **In-place**이다.
