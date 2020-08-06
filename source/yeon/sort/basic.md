@@ -1,6 +1,6 @@
  # 목차
-- [안정 정렬(Stable)](#1안정-정렬stable) <br>
-- [불안정 정렬(Unstable)](#2불안정-정렬unstable)
+- [안정 정렬(Stable)](#1-안정-정렬stable)
+- [불안정 정렬(Unstable)](#2-불안정-정렬unstable)
 - [대표적인 안정, 불안정 정렬 알고리즘 예시](#3-정렬-알고리즘-분류classify)
 - [In-place Algorithm](#4-in-place-algorithm)
 
@@ -20,7 +20,7 @@
 
 #### <a id="stable"></a>
 
-#### 1) 안정 정렬(stable) <br>
+## 1 안정 정렬stable
 ![img load fail](../images/pokercardstable.png)
 
 안정 정렬의 경우에는 정렬 후에도 원래의 순서가 유지되며, 결과는 위의 사진과 같다.<br>
@@ -28,7 +28,7 @@
 
 #### <a id="unstable"></a>
 
-#### 2) 불안정 정렬(unstable) <br>
+## 2 불안정 정렬unstable
 ![img load fail](../images/pokercardunstable.png)
 
 불안정 정렬의 경우에는 정렬 후에도 원래의 순서가 유지된다는 보장을 할 수 없으며, 결과는 위의 그림과 같을 수 있다.<br>
