@@ -58,9 +58,8 @@ Unstable Soring 알고리즘:
 
 #### 4) In-place Algorithm
 
-In-place 알고리즘이란 추가적인 메모리 공간을 많이 필요로 하지 않는 혹은 전혀 필요하지 않는 알고리즘을 뜻한다. 아마 학교에서는 제자리성과 같은 이름으로 들어봤을 수도 있겠다.<br>
-
-헷갈리면 정렬들을 공부하다보면 이해가 될 것이니 일단은 추가적인 메모리 공간이 거의(아예가 아니다) 안 드는 정렬이라고만 알고 있자.
+In-place(=제자리성) 알고리즘이란 추가적인 메모리 공간을 많이 필요로 하지 않는 혹은 전혀 필요하지 않는 알고리즘을 뜻한다. <br>
+헷갈리면 정렬들을 공부하다보면 이해가 될 것이니 일단은 추가적인 메모리 공간이 거의(아예가 아니다) 안 드는 정렬이라고만 알자. <br>
 
 In-place Sorting 알고리즘
 
@@ -78,8 +77,10 @@ Not in place Sorting 알고리즘
 - Radix Sort
 - Bucket Sort
 
+## 알고리즘 실행 그래프 
+![img load fail](../images/sortAlgorithm.gif)
 
-## 출처 
+## 자료 출처 
 https://godgod732.tistory.com/10 <br>
 https://github.com/BreakAlgorithm/algorithm-study/tree/master/source/SeongJin/1%EC%A3%BC%EC%B0%A8 <br>
 
