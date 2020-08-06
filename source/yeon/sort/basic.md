@@ -7,7 +7,7 @@
 먼저 정렬을 들어가기 전에 2가지 개념에 대해 이해를 하고 가자. <br>
 첫 번째는 **Stable**이고 두 번째는 **In-place**이다.
 
-#### 안정 정렬(Stable)과 불안정 정렬(Unstable)
+## 안정 정렬(Stable)과 불안정 정렬(Unstable)
 
 정렬의 안정적 특성이란 정렬되지 않은 상태에서 같은 키 값을 가진 원소의 순서가 정렬 후에도 유지되는가를 의미한다.
 이러한 정렬의 안정적 특성에 따라서 정렬 알고리즘은 안정 정렬과 불안정 정렬로 구분 할 수 있습니다.
@@ -37,15 +37,18 @@
 #### <a id="classify"></a>
 
 ## 3 정렬 알고리즘 분류 classify
-Stable Sorting 알고리즘은 다음과 같다:
 
+stable sort로 정렬하는 알고리즘들의 순서는 항상 똑같기에 항상 결과가 같음을 보장할 수 있다.<br>
+숫자를 sorting할 때는 stability가 중요하지 않을 수 있지만, 첫 문자를 기준으로 문자열을 정렬하는 경우에서는 <br>
+항상 안정적으로 같은 리스트가 리턴되는 것이 바람직할 것이다. 왜냐하면 정렬할 때마다 순서가 다르면 혼란스러울 수 있기 때문이다. <br>
+
+Stable Sorting 알고리즘은 다음과 같다:
 - Insertion Sort
 - Merge Sort
 - Bubble Sort
 - Countin Sort
 
 Unstable Soring 알고리즘:
-
 - Selection sort
 - Heap Sort
 - Shell Sort
