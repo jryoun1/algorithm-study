@@ -82,5 +82,3 @@ vector<int> solution(vector<int> array, vector<vector<int>> commands) {
 최악의 경우 : O(N^2) -> 데이터가 역순으로 정렬된 상태 <br>
 
 ## 공간복잡도
-
-![img load fail](../images/sortAlgorithm.gif)
