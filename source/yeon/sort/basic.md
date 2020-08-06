@@ -1,8 +1,8 @@
  # 목차
-- [안정 정렬(Stable)](#1-안정-정렬stable) <br>
-- [불안정 정렬(Unstable)](#2-불안정-정렬unstable)
+- [안정 정렬(Stable)](#1안정-정렬stable) <br>
+- [불안정 정렬(Unstable)](#2불안정-정렬unstable)
 - [대표적인 안정, 불안정 정렬 알고리즘 예시](#3-정렬-알고리즘-분류classify)
-- [In-place Algorithm](#3-in-place-algorithm)
+- [In-place Algorithm](#4-in-place-algorithm)
 
 먼저 정렬을 들어가기 전에 2가지 개념에 대해 이해를 하고 가자. <br>
 첫 번째는 **Stable**이고 두 번째는 **In-place**이다.
@@ -20,7 +20,7 @@
 
 #### <a id="stable"></a>
 
-#### 1) 안정 정렬 <br>
+#### 1) 안정 정렬(stable) <br>
 ![img load fail](../images/pokercardstable.png)
 
 안정 정렬의 경우에는 정렬 후에도 원래의 순서가 유지되며, 결과는 위의 사진과 같다.<br>
@@ -28,7 +28,7 @@
 
 #### <a id="unstable"></a>
 
-#### 2) 불안정 정렬 <br>
+#### 2) 불안정 정렬(unstable) <br>
 ![img load fail](../images/pokercardunstable.png)
 
 불안정 정렬의 경우에는 정렬 후에도 원래의 순서가 유지된다는 보장을 할 수 없으며, 결과는 위의 그림과 같을 수 있다.<br>
@@ -36,7 +36,7 @@
 
 #### <a id="classify"></a>
 
-#### 3) 대표적인 알고리즘들<br>
+#### 3) 정렬 알고리즘 분류<br>
 Stable Sorting 알고리즘은 다음과 같다:
 
 - Insertion Sort
@@ -53,7 +53,7 @@ Unstable Soring 알고리즘:
 
 #### <a id="inplace"></a>
 
-#### 2) In-place Algorithm
+#### 4) In-place Algorithm
 
 In-place 알고리즘이란 추가적인 메모리 공간을 많이 필요로 하지 않는 혹은 전혀 필요하지 않는 알고리즘을 뜻한다. 아마 학교에서는 제자리성과 같은 이름으로 들어봤을 수도 있겠다.<br>
 
