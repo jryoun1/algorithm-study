@@ -29,7 +29,6 @@ void mergeSort(int arr[], int left, int right){
     int mid =0;
     
     if(left < right){
-        printf("count : %d\n",cnt);
         cnt++;
         mid = (left + right)/2;
         mergeSort(arr, left, mid);
