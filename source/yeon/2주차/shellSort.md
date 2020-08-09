@@ -1,5 +1,5 @@
 # shellSort(쉘 정렬)
- # 목차
+## 목차
 - [쉘 정렬 개념](#개념)
 - [쉘 정렬 동작 방식](#동작-방식)
 - [쉘 정렬 특징](#특징)
@@ -8,6 +8,7 @@
 - [쉘 정렬 c++ code](#c-code)
 - [참조](#참조)
 
+#### <a id="information"></a>
 ### 개념 
 일정 간격(gap)만큼 떨어져 있는 원소들끼리 부분집합을 구성한 후 각 부분집합 원소들에 대해서 삽입 정렬을 수행하되 간격을 줄여가며 삽입 정렬을 반복하여 전체 원소들을 정렬하는 방식의 알고리즘이다. <br>
 쉘 정렬은 **삽입 정렬의 문제점을 극복하기 위해** 개선한 정렬 알고리즘이다. <br>
@@ -15,6 +16,7 @@
 **역순으로 정렬된 형태에 가까울수록 비교횟수가 많이 늘어나는 치명적인 문제점**이 존재했다.<br>
 따라서 Donald L.Shell은 이러한 문제점을 간격(gap)이라는 개념을 도입하여 쉘 정렬을 고안해내었다.
 
+#### <a id="How it works"></a>
 ### 동작 방식
 0. 간격(gap) gap = arr길의 / 2 <br>
 1. 첫 번째 원소와 첫 번째 원소로부터 gap의 배수만큼 간격의 원소들을 부분집합에 포함
@@ -28,12 +30,14 @@
 ![img load fail](../images/shellSortexample.png) <br>
 위의 사진은 8개의 원소가 들어가있는 배열의 동작되는 과정을 프린트 해본 것이다.
 
+#### <a id="characteristic"></a>
 ## 특징
 - **In-place(제자리 정렬)** 알고리즘이다. <br>
 약간의 추가적인 공간이 필요하지만, 해당 공간이 정렬하고자 하는 요소의 개수와 독립적이면 관련이 없는 제자리 정렬이라고 볼 수 있다. <br>
 - **Unstable(불안정적)** 알고리즘이다.<br>
 바로 옆의 원소끼리 교환하는 것이 아니므로 불안정적인 상황이 발생가능하다. <br> 
 
+#### <a id="time complexity"></a>
 ## 시간복잡도
 ### 연산시간
 - 간격(gap)에 의해 결정<br>
@@ -55,6 +59,7 @@ Big-O Notation에는 최악의 시간 복잡도로 표현이 되어 있지만 �
 ## 공간복잡도
 배열에 저장되는 n개의 원소에 대하여 n개의 메모리와 매개변수 gap에 대한 공간사용 
 
+#### <a id="python code"></a>
 ## python code
 ```python
 def insertionSort(list, first, last, gap):
@@ -87,7 +92,7 @@ from random import randint
 lst = [randint(1,101) for i in range(8)] # 1부터 101사이의 랜덤 값을 8개의 list 안에 초기화
 print("shellSort :", lst, end=" "); print ("->",shellSort(lst))
 ``` 
-
+#### <a id="c++ code"></a>
 ## c++ code
 ```c++
 #include<iostream>
@@ -136,6 +141,7 @@ int main(void){
     return 0; 
 }
 ```
+#### <a id="references"></a>
 ### 참조
 아래의 링크를 참조하여 작성하였습니다. <br>
 [몽구의 우탕탕탕 개발 공부](https://starkying.tistory.com/entry/Insertion-Sort-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-Shell-Sort-%EC%85%B8-%EC%A0%95%EB%A0%AC) <br>
