@@ -13,7 +13,7 @@ def mergeSort(list):
     #재귀 -> 가장 왼쪽부터 분리될때까지 반복
     leftList = mergeSort(leftList)
     rightList = mergeSort(rightList)
-    
+
     #합병
     return merge(leftList,rightList)
    
@@ -39,7 +39,11 @@ def merge(leftList, rightList):
             rightList = rightList[1:]
     return sorted_arr
 
-if __name__ == "__main__":
-    arr = list(map(int,input().split()))
-    print(mergeSort(arr))
+from random import randint
+lst = [randint(1,101) for i in range(8)] # 1부터 101사이의 랜덤 값을 8개의 list 안에 초기화
+print("mergeSort :", lst, end=" "); print ("->",mergeSort(lst))
+
+# if __name__ == "__main__":
+#     arr = list(map(int,input().split()))
+#     print(mergeSort(arr))
 
