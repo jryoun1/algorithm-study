@@ -144,7 +144,7 @@ int main(void){
 #### <a id="references"></a>
 ### 참조
 아래의 링크를 참조하여 작성하였습니다. <br>
-[몽구의 우탕탕탕 개발 공부](https://starkying.tistory.com/entry/Insertion-Sort-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-Shell-Sort-%EC%85%B8-%EC%A0%95%EB%A0%AC) <br>
-[heejeong Kwon](https://mong9data.tistory.com/45)<br>
+[heejeong Kwon](https://starkying.tistory.com/entry/Insertion-Sort-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-Shell-Sort-%EC%85%B8-%EC%A0%95%EB%A0%AC) <br>
+[몽구의 우탕탕탕 개발 공부](https://mong9data.tistory.com/45)<br>
 [kmmguumnn](https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html)
 
