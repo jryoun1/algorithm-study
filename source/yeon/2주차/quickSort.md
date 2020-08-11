@@ -28,8 +28,8 @@ R에 위치한 원소가 pivot보다 작은 원소가 나올 때까지 R은 리�
 4. L과 R이 교차하면, pivot은 R에 위치한 원소와 교환한다. 교환 후 **pivot을 기준**으로 왼쪽과 오른쪽 부분집합을 **구분**하고, <br>
 두 부분집합에 대해서 퀵 정렬 알고리즘을 **재귀 호출**한다. 이때, 분할된 부분집합의 크기가 1이하일 경우에는 탈출하도록 한다.
 
-![img load fail](../images/mergeSortexample.png) <br>
-위의 사진은 8개의 원소가 들어가있는 배열의 동작되는 과정을 프린트 해본 것이다.
+![img load fail](../images/quickSortworks.gif) <br>
+위의 영상은 이해를 돕기위해서 첨부한 것으로, 기준 값(pivot)을 마지막 원소로 두고 진행한 영상이다. <br>
 
 #### <a id="characteristic"></a>
 ## 특징
