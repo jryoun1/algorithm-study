@@ -167,5 +167,5 @@ int main(){
 #### <a id="references"></a>
 ### 참조
 아래의 링크를 참조하여 작성하였습니다. <br>
-[heejeong Kwon](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
-[몽구의 우탕탕탕 개발 공부](https://mong9data.tistory.com/46?category=885884)
+[heejeong Kwon](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)<br>
+[몽구의 우탕탕탕 개발 공부](https://mong9data.tistory.com/46?category=885884)<br>
