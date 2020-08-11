@@ -127,53 +127,48 @@ print("time : ", time.time()-start )
 ```c++
 #include<iostream>
 #include<string>
-int cnt =0;
+#define SWAP(a,b) { int temp = a; a =b; b =temp;}
+#define LEN 8
+using namespace std;
 
-void merge(int arr[], int left, int mid, int right){
-    int i = left, j = mid + 1, k = left ;
-    int sorted_arr[1000];
-    while(i <= mid && j <= right){
-        if(arr[i] <= arr[j]){
-            sorted_arr[k++] = arr[i++];
-        }else{
-            sorted_arr[k++] = arr[j++];
+int partition(int arr[], int low, int high){
+    int pivot = arr[(low+high)/2];
+    while(low <= high){
+        while(arr[low] < pivot){
+            low++;
+        }
+        while(arr[high] > pivot){
+            high--;
+        }
+        if(low <= high){
+            SWAP(arr[low],arr[high]);
+            low++;
+            high--;
         }
     }
-    if(i>mid){
-        for(int m = j; m <= right; m++){
-            sorted_arr[k++] = arr[m];
-        }
-    }else{
-         for(int m = i; m<= mid; m++){
-            sorted_arr[k++] = arr[m];
-        }
-    }
-      for (int m = left; m <= right; m++) {
-        arr[m] = sorted_arr[m];
-    }
+    return low;
 }
-void mergeSort(int arr[], int left, int right){
-    int mid =0;
-    
-    if(left < right){
-        cnt++;
-        mid = (left + right)/2;
-        mergeSort(arr, left, mid);
-        mergeSort(arr, mid +1, right);
-        merge(arr, left, mid, right);
+void quickSort(int arr[], int low, int high){
+    if (high<=low){
+        return ;
     }
+    int mid = partition(arr,low,high);
+    quickSort(arr,low,mid-1);
+    quickSort(arr,mid,high);
 }
-
-int main(){
-    int len = 0;
-    std::cin >> len;
-    int *arr = new int[len];
-    for(int i = 0; i< len ; i++){
-        std::cin >> arr[i];
-    }
-    mergeSort(arr, 0, len - 1);
-    for(int i = 0; i < len; i++){
+int main (void){
+    int arr[LEN]={};
+    srand((unsigned)time(NULL));
+    printf("정렬 전: ");
+    for (int i = 0;i < LEN; i++){
+        arr[i]= (std::rand() % 101) + 1;
         printf("%d ", arr[i]);
+    }
+    quickSort(arr, 0, LEN-1);
+    printf("-> 정렬 후: ");
+    
+    for(int i = 0; i < LEN; i++){
+        printf("%d ",arr[i]);
     }
     return 0;
 }
