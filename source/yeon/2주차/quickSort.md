@@ -184,3 +184,4 @@ int main(){
 아래의 링크를 참조하여 작성하였습니다. <br>
 [몽구의 우탕탕탕 개발 공부](https://mong9data.tistory.com/48?category=885884)<br>
 [Dale Seo](https://www.daleseo.com/sort-quick/)
+[quickSort 영상](https://shantha1213.blogspot.com/2018/07/quick-sort.html)
