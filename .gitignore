@@ -30,7 +30,9 @@
 *.exe
 *.out
 *.app
+.DS_Store
 
 #mac에서 실행시 생성파일
 *.dsYM
 **/*.DS_Store
+
