@@ -63,6 +63,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 
 1주차 : 선택 정렬, 버블 정렬, 삽입 정렬 공부 후 Programmers K-번째 수 문제 각각의 정렬로 풀어보기 <br>
 2주차 : 쉘 정렬, 퀵 정렬, 합병 정렬 개념 및 코드 짜보기, 백준 [1181: 단어 정렬], [10814:나이순 정렬] 문제는 따로 풀어보기 <br>
+3주차 : 힙 정렬, 계수 정렬 개념 및 코드 짜보기, 백준 [1018: 체스판 다시 칠하기], [2805 :자르기], [1874 : 스택수열] 문제 풀기 <br>
 
 ### :rainbow: Week Study Question
 
@@ -70,7 +71,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | :---: | :---: | :---: | :---: | :---: |
 | 1주차  | [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)   |   |   | 2020.08.06(목)
 | 2주차  | [1181: 단어정렬](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬](https://www.acmicpc.net/problem/10814) |   | 2020.08.13(목)
-
+| 3주차  | [1018: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   | [2805 :자르기](https://www.acmicpc.net/problem/2805) | [1874 : 스택수열](https://www.acmicpc.net/problem/1874)  | 2020.08.21(금)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
