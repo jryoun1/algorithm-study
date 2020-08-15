@@ -1,3 +1,4 @@
+# 계수 정렬
 MAX_NUM = 20
 def countingSort(arr):
     length = len(arr)
