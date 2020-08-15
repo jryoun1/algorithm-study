@@ -9,7 +9,7 @@ def quickSort(lst):
 
         mid = partition(low, high) 
         sort(low, mid-1)
-        sort(mid, high)
+        sort(mid+1, high)
 
     def partition(low, high): #분할 기준점의 인덱스(low)를 반환
         pivot = lst[(low + high) // 2]
