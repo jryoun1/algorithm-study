@@ -1,35 +1,55 @@
-def push(stack , i, Max):
+# your code goes here
+def push(stack , i, Max, answer, cnt):
     if(Max == 1): # 즉 아예 맨 처음 비어있는 경우 
-        for a in range(Max, i+1):
-            stack.push(a)
-            print("+")
-        Max = i
+        for a in range(1, i+1):
+            stack.append(a)
+            answer = answer + "+\n"
+        print(stack.pop())
+        answer = answer + "-\n"
+        Max = stack[-1]
+        cnt = i
+
     else :
-        for a in range (Max+1, i+1):
-            stack.push(a)
-            print("+")
-        Max = i
-
-
-num = int(input())
-Max = 1
-arr = []
-stack = []
-for i in range (0, num):
-    n = input()
-    arr.append(n)
-
-print(arr)
-print(arr.index('4'))
-print(int(arr[0]))
-for i in arr:
-    index = stack.index(i)
-    if index == -1: #만약 스택안에서 원소를 찾았는데 없는 경우
-        push(stack,i, Max) # 해당 원소까지 다시 푸시
+        for a in range (cnt+1, i+1):
+            stack.append(a)
+            answer = answer + "+\n"
+        print(stack.pop())
+        answer = answer + "-\n"
+        Max = stack[-1]
+        cnt = i 
+        
+    return stack, Max, answer, cnt
+    
+if __name__ == "__main__":
+    num = int(input())
+    arr = []
+    stack = []
+    answer = ""
+    Max = 1
+    cnt = 0
+    
+    for i in range (0, num):
+        n = int(input())
+        arr.append(n)
+        
+    for i in arr:
+        if len(stack) == 0:
+        	stack , Max, answer, cnt = push(stack, i, Max, answer, cnt)
+        elif Max > i:
+            if stack.index(i) + 1 == stack.index(Max):
+                print(stack.pop())
+                Max = stack[-1]
+                answer = answer + "-\n"
+            else : 
+                answer = answer + "N\n"
+        elif Max == i :
+        	print(stack.pop())
+        	Max = stack[-1]
+        	answer = answer + "-\n"
+        elif Max < i :
+        	stack , Max, answer, cnt = push(stack, i, Max, answer, cnt)
+            
+    if answer.find("N") != -1 :
+        print("NO")
     else : 
-        if i < Max and stack.index(Max) -1 > index : # 스택 안에서 원소를 찾았는데, 가장 큰 원소보다 작고 바로 전 인덱스가 아닌경우 구현 불가
-            print("No")
-            break
-        else : 
-            stack.pop()
-            print("-")
+        print(answer)
