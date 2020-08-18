@@ -24,7 +24,7 @@
 
 
 
-## 동작방식
+## 동작 방식
 
 다음과 같이 8개의 원소를 가지는 배열 A를 정렬해야하는 상황이라고 해보자.<br>
 
@@ -198,7 +198,7 @@ int main (void){
 
 아래의 링크를 참조하여 작성하였습니다. <br>
 
-[멍멍멍]([https://bowbowbow.tistory.com/8#%EC%86%8C%EA%B0%9C](https://bowbowbow.tistory.com/8#소개)) <br>
+[멍멍멍](https://bowbowbow.tistory.com/8#소개)<br>
 
 [Dojin Kim](https://dojinkimm.github.io/algorithm/2019/09/22/sort-algorithm-8.html)<br>
 
