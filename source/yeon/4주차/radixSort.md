@@ -202,7 +202,7 @@ int main(void){
 
 아래의 링크를 참조하여 작성하였습니다. <br>
 
-[ratsgo's blog](https://ratsgo.github.io/data structure&algorithm/2017/10/16/countingsort/)<br>
+[ratsgo's blog](https://ratsgo.github.io/data%20structure&algorithm/2017/10/16/countingsort/)<br>
 
 [잭팟53](https://jackpot53.tistory.com/44?category=715471)<br>
 
