@@ -44,7 +44,7 @@
 
  아래의 그림을 보고 이해해보자.
 
-![img load fail](../images/bucketSort.png)
+![img load fail](/Users/yeon/Desktop/algorithm/source/yeon/images/bucketSort.png)
 
 
 
@@ -159,7 +159,7 @@ int main(void){
 
 아래의 링크를 참조하여 작성하였습니다. <br>
 
-[ratsgo's blog](https://ratsgo.github.io/data%20structure&algorithm/2017/10/18/bucketsort/)<br>
+[ratsgo's blog](https://ratsgo.github.io/data structure&algorithm/2017/10/18/bucketsort/)<br>
 
 [greatzzo](https://greatzzo.tistory.com/17) <br>
 
