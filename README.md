@@ -75,7 +75,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 2주차  | [1181: 단어정렬](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬](https://www.acmicpc.net/problem/10814) ||||   | 2020.08.13(목)
 | 3주차  | [1018: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   | [2805 :나무 자르기](https://www.acmicpc.net/problem/2805) | [1874 : 스택수열](https://www.acmicpc.net/problem/1874)  |||| 2020.08.21(금)
 | 4주차  |  [1978 : 알파벳](https://www.acmicpc.net/problem/1987)   | [1261 : 알고스팟](https://www.acmicpc.net/problem/1261) | [1038 : 감소하는 수](https://www.acmicpc.net/problem/1038)  |||| 2020.08.28(금)
-| 5주차  |  [2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)   | [2503 : 숫자야구](https://www.acmicpc.net/problem/2503) | [1182 : 부분 수열의 합](https://www.acmicpc.net/problem/1182)  |[3085 : 사탕 게임](https://www.acmicpc.net/problem/1182)||| 2020.09.03(목)
+| 5주차  |  [2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)   | [2503 : 숫자야구](https://www.acmicpc.net/problem/2503) | [1182 : 부분 수열의 합](https://www.acmicpc.net/problem/1182)  |[3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)||| 2020.09.03(목)
 
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
