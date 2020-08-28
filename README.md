@@ -68,11 +68,12 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 
 ### :rainbow: Week Study Question
 
-|        | 1  | 2 | 3 | 날짜 |
-| :---: | :---: | :---: | :---: | :---: |
+|        | 1  | 2 | 3 |4|5|6| 날짜 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1주차  | [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)   |   |   | 2020.08.06(목)
 | 2주차  | [1181: 단어정렬](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬](https://www.acmicpc.net/problem/10814) |   | 2020.08.13(목)
 | 3주차  | [1018: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   | [2805 :나무 자르기](https://www.acmicpc.net/problem/2805) | [1874 : 스택수열](https://www.acmicpc.net/problem/1874)  | 2020.08.21(금)
+| 4주차  |  [1978 : 알파벳](https://www.acmicpc.net/problem/1987)   | [1261 : 알고스팟](https://www.acmicpc.net/problem/1261) | [1038 : 감소하는 수](https://www.acmicpc.net/problem/1038)  | 2020.08.28(금)
 | 4주차  |  [1978 : 알파벳](https://www.acmicpc.net/problem/1987)   | [1261 : 알고스팟](https://www.acmicpc.net/problem/1261) | [1038 : 감소하는 수](https://www.acmicpc.net/problem/1038)  | 2020.08.28(금)
 
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
