@@ -1,3 +1,5 @@
+// 백준 2309 일곱 난쟁이
+// cpp solved by brute-force 
 #include <iostream>
 #include <algorithm>
 

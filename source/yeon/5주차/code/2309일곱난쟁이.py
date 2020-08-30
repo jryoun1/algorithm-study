@@ -1,3 +1,5 @@
+# 백준 2309 일곱 난쟁이
+# python solved by combinations + brute-force
 from itertools import combinations
 # combinations(조합)과 permutations(순열)의 차이
 # 순열은 순서가 있는 조합 즉, 순열은 원소의 순서가 상관이 있음 
