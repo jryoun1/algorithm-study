@@ -34,7 +34,6 @@ int main(void){
 
     // start recurisve from index 0 
     combination(0);
-
     // check is value which prevent counting cnt 
     // even though there's nothing to calculate 
     int check;
