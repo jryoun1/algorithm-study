@@ -18,9 +18,10 @@
 
 ## 모임 규칙
 
-회의시간 지각 시 : 분당 300원<br>
+회의시간 지각 시 : 분당 300원 (20분까지) <br>
 문제 안 풀어올 시 : 문제당 2000원<br>
 문제 못 풀어올 시 : 문제당 500원<br>
+결석 시 : 1회 7000원 (3회 무단 결석 스터디 퇴출) <br>
 벌금 계좌 : 카카오 뱅크 공동 계좌 사용 (벌금 발생 시 스터디 당일 날 바로 보내기)<br>
 벌금 사용 : 회식<br>
 
@@ -60,16 +61,23 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 
 ### 알고리즘 공부 순서
 
-1. 선택 정렬, 버블 정렬, 삽입 정렬 공부 후 Programmers K-번째 수 문제 각각의 정렬로 풀어보기
+1주차 : 선택 정렬, 버블 정렬, 삽입 정렬 공부 후 Programmers K-번째 수 문제 각각의 정렬로 풀어보기 <br>
+2주차 : 쉘 정렬, 퀵 정렬, 합병 정렬 개념 및 코드 짜보기, 백준 [1181: 단어 정렬], [10814:나이순 정렬] 문제는 따로 풀어보기 <br>
+3주차 : 힙 정렬, 계수 정렬 개념 및 코드 짜보기, 백준 [1018: 체스판 다시 칠하기], [2805 :나무 자르기], [1874 : 스택수열] 문제 풀기 <br>
+4주차 : 기수 정렬, 버킷 정렬 개념 및 코드 짜보기, 백준 [1978 : 알파벳], [1261 : 알고스팟], [1038 : 감소하는 수] 문제 풀기 <br>
+5주차 : 완전 탐색 알고리즘 (Brute-force Algorithm) 개념 공부, 백준 [2309 : 일곱 난쟁이], [2503 : 숫자야구], [1182 : 부분 수열의 합], [3085 : 사탕 게임] 문제 풀기 <br>
+6주차 : 그리디 알고리즘 (Greedy Algorithm) 공부, 백준 [13904 : 과제], [4796 : 캠핑], [1449 : 수리공 항승], [1520 : 내리막길] 문제풀기 <br>
 
+### :rainbow: Week Study Question
 
-
-### :rainbow: Week Study
-
-|        | 1  | 2 | 3 | 날짜 |
-| :---: | :---: | :---: | :---: | :---: |
-| 1주차  | [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)   |   |   | 2020.08.06(목)
-
+|        | 1  | 2 | 3 |4|5|6| 날짜 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1주차  | [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)   |   ||||   | 2020.08.06(목)
+| 2주차  | [1181: 단어정렬](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬](https://www.acmicpc.net/problem/10814) ||||   | 2020.08.13(목)
+| 3주차  | [1018: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   | [2805 :나무 자르기](https://www.acmicpc.net/problem/2805) | [1874 : 스택수열](https://www.acmicpc.net/problem/1874)  |||| 2020.08.21(금)
+| 4주차  |  [1978 : 알파벳](https://www.acmicpc.net/problem/1987)   | [1261 : 알고스팟](https://www.acmicpc.net/problem/1261) | [1038 : 감소하는 수](https://www.acmicpc.net/problem/1038)  |||| 2020.08.28(금)
+| 5주차  |  [2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)   | [2503 : 숫자야구](https://www.acmicpc.net/problem/2503) | [1182 : 부분 수열의 합](https://www.acmicpc.net/problem/1182)  |[3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)||| 2020.09.03(목)
+| 6주차  |  [13904 : 과제](https://www.acmicpc.net/problem/13904)   | [4796 : 캠핑](https://www.acmicpc.net/problem/4796) | [1449 : 수리공 항승](https://www.acmicpc.net/problem/1449)  |[1520 : 내리막길](https://www.acmicpc.net/problem/1520)||| 2020.09.10(목)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
