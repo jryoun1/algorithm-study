@@ -67,7 +67,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 4주차 : 기수 정렬, 버킷 정렬 개념 및 코드 짜보기, 백준 [1978 : 알파벳], [1261 : 알고스팟], [1038 : 감소하는 수] 문제 풀기 <br>
 5주차 : 완전 탐색 알고리즘 (Brute-force Algorithm) 개념 공부, 백준 [2309 : 일곱 난쟁이], [2503 : 숫자야구], [1182 : 부분 수열의 합], [3085 : 사탕 게임] 문제 풀기 <br>
 6주차 : 그리디 알고리즘 (Greedy Algorithm) 공부, 백준 [13904 : 과제], [4796 : 캠핑], [1449 : 수리공 항승], [1520 : 내리막길] 문제풀기 <br>
-
+7주차 : 분할 정복 알고리즘 (Divide and Conquer) 공부, 백준 [2104 : 부분배열 고르기], [1725 : 히스토그램], [1992 : 쿼드트리], [1074 : Z] 문제풀기 <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -75,9 +75,10 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 1주차  | [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)   |   ||||   | 2020.08.06(목)
 | 2주차  | [1181: 단어정렬](https://www.acmicpc.net/problem/1181)   | [10814 :나이순 정렬](https://www.acmicpc.net/problem/10814) ||||   | 2020.08.13(목)
 | 3주차  | [1018: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   | [2805 :나무 자르기](https://www.acmicpc.net/problem/2805) | [1874 : 스택수열](https://www.acmicpc.net/problem/1874)  |||| 2020.08.21(금)
-| 4주차  |  [1978 : 알파벳](https://www.acmicpc.net/problem/1987)   | [1261 : 알고스팟](https://www.acmicpc.net/problem/1261) | [1038 : 감소하는 수](https://www.acmicpc.net/problem/1038)  |||| 2020.08.28(금)
+| 4주차  |  [1987 : 알파벳](https://www.acmicpc.net/problem/1987)   | [1261 : 알고스팟](https://www.acmicpc.net/problem/1261) | [1038 : 감소하는 수](https://www.acmicpc.net/problem/1038)  |||| 2020.08.28(금)
 | 5주차  |  [2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)   | [2503 : 숫자야구](https://www.acmicpc.net/problem/2503) | [1182 : 부분 수열의 합](https://www.acmicpc.net/problem/1182)  |[3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)||| 2020.09.03(목)
 | 6주차  |  [13904 : 과제](https://www.acmicpc.net/problem/13904)   | [4796 : 캠핑](https://www.acmicpc.net/problem/4796) | [1449 : 수리공 항승](https://www.acmicpc.net/problem/1449)  |[1520 : 내리막길](https://www.acmicpc.net/problem/1520)||| 2020.09.10(목)
+| 7주차  |  [2104 : 부분배열 고르기](https://www.acmicpc.net/problem/2104)   | [1725 : 히스토그램](https://www.acmicpc.net/problem/1725) | [1992 : 쿼드트리](https://www.acmicpc.net/problem/1992)  |[1074 : Z](https://www.acmicpc.net/problem/1074)||| 2020.09.17(목)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
