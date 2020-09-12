@@ -1,4 +1,4 @@
-# 백준 2014 부분배열 고르기 
+# 백준 2104 부분배열 고르기 
 # python solved by divide and conquer
 
 def solution(start, end):
