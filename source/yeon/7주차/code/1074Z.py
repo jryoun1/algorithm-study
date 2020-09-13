@@ -1,4 +1,4 @@
-# 백준 1074번 Z
+# 백준 1074번 Z 
 # python solved by divide and conquer
 N, r, c = map(int,input().split())
 ans = 0

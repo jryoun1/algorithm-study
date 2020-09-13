@@ -1,4 +1,4 @@
-// 백준 1074 Z 
+// 백준 1074 Z
 // cpp solved by divide and conquer
 #include<iostream>
 int N, r, c;
