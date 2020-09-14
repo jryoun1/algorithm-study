@@ -81,7 +81,7 @@ from random import randint
 lst = [randint(1,101) for i in range(8)] # 1부터 101사이의 랜덤 값을 8개의 list 안에 초기화
 print("quickSort :", lst, end=" "); print ("->",quickSort(lst))
 print("time : ", time.time()-start )
-``` 
+```
 위의 코드의 경우 구현이 간단하지만 재귀함수를 호출할 때 마다 매번 새로운 리스트를 생성하여 리턴하기 때문에 <br>
 **메모리 사용 측면에서 효율적이지 못하다**고 할 수 있다.<br>
 따라서 in-place 정렬로 코드를 수정하기 위해서 다음과 같은 코드를 작성했다. <br>
@@ -120,7 +120,7 @@ from random import randint
 lst = [randint(1,101) for i in range(8)] # 1부터 101사이의 랜덤 값을 8개의 list 안에 초기화
 print("quickSort :", lst, end=" "); quickSort(lst); print ("->",lst)
 print("time : ", time.time()-start )
-``` 
+```
 
 #### <a id="c++ code"></a>
 ## c++ code
@@ -179,3 +179,4 @@ int main (void){
 [몽구의 우탕탕탕 개발 공부](https://mong9data.tistory.com/48?category=885884)<br>
 [Dale Seo](https://www.daleseo.com/sort-quick/) <br>
 [quickSort 영상](https://shantha1213.blogspot.com/2018/07/quick-sort.html)
+
