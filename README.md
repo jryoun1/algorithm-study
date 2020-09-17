@@ -68,7 +68,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 5주차 : 완전 탐색 알고리즘 (Brute-force Algorithm) 개념 공부, 백준 [2309 : 일곱 난쟁이], [2503 : 숫자야구], [1182 : 부분 수열의 합], [3085 : 사탕 게임] 문제 풀기 <br>
 6주차 : 그리디 알고리즘 (Greedy Algorithm) 공부, 백준 [13904 : 과제], [4796 : 캠핑], [1449 : 수리공 항승], [1520 : 내리막길] 문제풀기 <br>
 7주차 : 분할 정복 알고리즘 (Divide and Conquer) 공부, 백준 [2104 : 부분배열 고르기], [1725 : 히스토그램], [1992 : 쿼드트리], [1074 : Z] 문제풀기 <br>
-8주차 : 동적계획법 (Dynamic Programming) 공부, 백준 [2098 : 외판원 순회], [2156 : 포도주 시식], [10942 : 팰린드롬], [19844 : 쉬운 계단수] 문제풀기 <br>
+8주차 : 동적계획법 (Dynamic Programming) 공부, 백준 [2098 : 외판원 순회], [2156 : 포도주 시식], [10942 : 팰린드롬], [10844 : 쉬운 계단수] 문제풀기 <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -80,7 +80,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 5주차  |  [2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)   | [2503 : 숫자야구](https://www.acmicpc.net/problem/2503) | [1182 : 부분 수열의 합](https://www.acmicpc.net/problem/1182)  |[3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)||| 2020.09.03(목)
 | 6주차  |  [13904 : 과제](https://www.acmicpc.net/problem/13904)   | [4796 : 캠핑](https://www.acmicpc.net/problem/4796) | [1449 : 수리공 항승](https://www.acmicpc.net/problem/1449)  |[1520 : 내리막길](https://www.acmicpc.net/problem/1520)||| 2020.09.10(목)
 | 7주차  |  [2104 : 부분배열 고르기](https://www.acmicpc.net/problem/2104)   | [1725 : 히스토그램](https://www.acmicpc.net/problem/1725) | [1992 : 쿼드트리](https://www.acmicpc.net/problem/1992)  |[1074 : Z](https://www.acmicpc.net/problem/1074)||| 2020.09.17(목)
-| 8주차  |  [2098 : 외판원 순회](https://www.acmicpc.net/problem/2098)   | [2156 : 포도주 시식](https://www.acmicpc.net/problem/2156) | [10942 : 팰린드롬](https://www.acmicpc.net/problem/10942)  |[19844 : 쉬운 계단수](https://www.acmicpc.net/problem/19844)||| 2020.09.24(목)
+| 8주차  |  [2098 : 외판원 순회](https://www.acmicpc.net/problem/2098)   | [2156 : 포도주 시식](https://www.acmicpc.net/problem/2156) | [10942 : 팰린드롬](https://www.acmicpc.net/problem/10942)  |[10844 : 쉬운 계단수](https://www.acmicpc.net/problem/10844)||| 2020.09.24(목)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
