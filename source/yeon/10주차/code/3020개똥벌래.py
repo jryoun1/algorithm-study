@@ -1,5 +1,5 @@
 # 백준 3020 개똥벌레
-# python solved by 
+# python solved by dp 
 import sys
 N, H = map(int,sys.stdin.readline().split())
 fromUp = [0 for _ in range(H+1)] #even
