@@ -69,7 +69,9 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 6주차 : 그리디 알고리즘 (Greedy Algorithm) 공부, 백준 [13904 : 과제], [4796 : 캠핑], [1449 : 수리공 항승], [1520 : 내리막길] 문제풀기 <br>
 7주차 : 분할 정복 알고리즘 (Divide and Conquer) 공부, 백준 [2104 : 부분배열 고르기], [1725 : 히스토그램], [1992 : 쿼드트리], [1074 : Z] 문제풀기 <br>
 8주차 : 동적계획법 (Dynamic Programming) 공부, 백준 [2098 : 외판원 순회], [2156 : 포도주 시식], [10942 : 팰린드롬], [10844 : 쉬운 계단수] 문제풀기 <br>
-9주차 : 이분탐색 (Binary Search) 공부, 백준 [1300 : K번째 수], [2343 : 기타레슨], [3020 : 개똥벌레], [14003 : 가장 긴 증가하는 부분 수열5] 문제풀기 <br>
+9주차 : <<추석연휴>> 복습 및 휴식 <br>
+10주차 : 이분탐색 (Binary Search) 공부, 백준 [1300 : K번째 수], [2343 : 기타레슨], [3020 : 개똥벌레], [14003 : 가장 긴 증가하는 부분 수열5] 문제풀기 <br>
+11주차 : 리스트, 배열, 연결리스트 공부, 백준  [1021 : 회전하는 큐], [1158 : 요세푸스 문제], [2346 : 풍선 터뜨리기], [5397 : 키로거] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -82,7 +84,8 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 6주차  |  [13904 : 과제](https://www.acmicpc.net/problem/13904)   | [4796 : 캠핑](https://www.acmicpc.net/problem/4796) | [1449 : 수리공 항승](https://www.acmicpc.net/problem/1449)  |[1520 : 내리막길](https://www.acmicpc.net/problem/1520)||| 2020.09.10(목)
 | 7주차  |  [2104 : 부분배열 고르기](https://www.acmicpc.net/problem/2104)   | [1725 : 히스토그램](https://www.acmicpc.net/problem/1725) | [1992 : 쿼드트리](https://www.acmicpc.net/problem/1992)  |[1074 : Z](https://www.acmicpc.net/problem/1074)||| 2020.09.17(목)
 | 8주차  |  [2098 : 외판원 순회](https://www.acmicpc.net/problem/2098)   | [2156 : 포도주 시식](https://www.acmicpc.net/problem/2156) | [10942 : 팰린드롬](https://www.acmicpc.net/problem/10942)  |[10844 : 쉬운 계단수](https://www.acmicpc.net/problem/10844)||| 2020.09.24(목)
-| 9주차  |  [1300 : K번째 수](https://www.acmicpc.net/problem/1300)   | [2343 : 기타레슨](https://www.acmicpc.net/problem/2343) | [3020 : 개똥벌레](https://www.acmicpc.net/problem/3020)  |[14003 : 가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14003)||| 2020.10.08(목)
+| 10주차  |  [1300 : K번째 수](https://www.acmicpc.net/problem/1300)   | [2343 : 기타레슨](https://www.acmicpc.net/problem/2343) | [3020 : 개똥벌레](https://www.acmicpc.net/problem/3020)  |[14003 : 가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14003)||| 2020.10.08(목)
+| 11주차  |  [1021 : 회전하는 큐](https://www.acmicpc.net/problem/1021)   | [1158 : 요세푸스 문제](https://www.acmicpc.net/problem/1158) | [2346 : 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)  |[5397 : 키로거](https://www.acmicpc.net/problem/5397)||| 2020.10.15(목)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
