@@ -27,7 +27,7 @@ int main(void){
     int _max = v.size();
     printf("%d\n", _max);
 
-    for(int i = N; i >= 0; i--){
+    for(int i = N-1; i >= 0; i--){
         if(_max < 0) break;
         if(dp[i] == _max - 1){
             ans.push_back(a[i]);
