@@ -1,18 +1,19 @@
 # 백준 1012 유기농 배추
 # python solved by bfs
+from collections import deque
 dx = [0, 1, 0, -1]
 dy = [1, 0, -1, 0]
 def bfs(b, a):
-    stack = []
-    stack.append((a,b))
+    dq = deque()
+    dq.append((a,b))
     visited[b][a] = 1
-    while stack:
-        x, y = stack.pop()
+    while dq:
+        x, y = dq.popleft()
         for i in range(4):
             nx , ny = x + dx[i] , y + dy[i]
             if 0 <= nx < M and 0 <= ny < N and visited[ny][nx] == 0:
                 if _map[ny][nx] == _map[y][x]:
-                    stack.append((nx,ny))
+                    dq.append((nx,ny))
                     visited[ny][nx] = 1
 T = int(input())
 for _ in range(T):
@@ -40,14 +41,14 @@ for _ in range(T):
 # import sys
 # N, M = map(int, sys.stdin.readline().split())
 # def bfs(start):
-#     stack = []
-#     stack.extend(graph[start])
+#     dq = []
+#     dq.extend(graph[start])
 #     visited.add(start)
-#     while stack:
-#         _next = stack.pop()
+#     while dq:
+#         _next = dq.pop()
 #         if _next in visited:
 #             continue
-#         stack.extend(graph[_next])
+#         dq.extend(graph[_next])
 #         visited.add(_next)
 
 # visited = set()
