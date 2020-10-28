@@ -73,6 +73,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 10주차 : 이분탐색 (Binary Search) 공부, 백준 [1300 : K번째 수], [2343 : 기타레슨], [3020 : 개똥벌레], [14003 : 가장 긴 증가하는 부분 수열5] 문제풀기 <br>
 11주차 : 리스트, 배열, 연결리스트 공부, 백준  [1021 : 회전하는 큐], [1158 : 요세푸스 문제], [2346 : 풍선 터뜨리기], [5397 : 키로거] <br>
 12주차 : 스택, 큐, 덱 공부, 백준 [3015 : 오아시스 재결합], [3190 : 뱀], [5430 : AC], [17298 : 오큰수] <br>
+13주차 : BFS(Breadth First Search) 너비 우선 탐색 공부, 백준 [1012 : 유기농 배추], [2606 : 바이러스], [2667 : 단지번호 붙이기], [10026 : 적록색약] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -88,6 +89,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 10주차  |  [1300 : K번째 수](https://www.acmicpc.net/problem/1300)   | [2343 : 기타레슨](https://www.acmicpc.net/problem/2343) | [3020 : 개똥벌레](https://www.acmicpc.net/problem/3020)  |[14003 : 가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14003)||| 2020.10.08(목)
 | 11주차  |  [1021 : 회전하는 큐](https://www.acmicpc.net/problem/1021)   | [1158 : 요세푸스 문제](https://www.acmicpc.net/problem/1158) | [2346 : 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)  |[5397 : 키로거](https://www.acmicpc.net/problem/5397)||| 2020.10.15(목)
 | 12주차  |  [3015 : 오아시스 재결합](https://www.acmicpc.net/problem/3015)   | [3190 : 뱀](https://www.acmicpc.net/problem/3190) | [5430 : AC](https://www.acmicpc.net/problem/5430)  |[17298 : 오큰수](https://www.acmicpc.net/problem/17298)||| 2020.10.22(목)
+| 13주차  |  [1012 : 유기농 배추](https://www.acmicpc.net/problem/1012)   | [2606 : 바이러스](https://www.acmicpc.net/problem/2606) | [2667 : 단지번호 붙이기](https://www.acmicpc.net/problem/2667)  |[10026 : 적록색약](https://www.acmicpc.net/problem/10026)||| 2020.10.29(목)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
