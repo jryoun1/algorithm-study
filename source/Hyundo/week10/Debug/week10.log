@@ -1,0 +1,3 @@
+﻿  2343.cpp
+C:\Users\kk090\source\repos\week10\2343.cpp(15,6): warning C4101:  'tmp' :참조되지 않은 지역 변수입니다.
+  week10.vcxproj -> C:\Users\kk090\source\repos\week10\Debug\week10.exe
