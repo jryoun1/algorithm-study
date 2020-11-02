@@ -12,7 +12,7 @@
 
 ## 알고리즘 스터디 모임 일정 (2020.08.06 ~ )
 
-매주 목요일 오전 10:00-12:00 <br>
+매주 수요일 오후 13:00-15:00 <del>목요일 오전 10:00-12:00</del> <br>
 스터디 진행 순서 : 개념 10-15 분, 코드 리뷰 30-40분, 다음주 문제 정하기 20-30분 <br>
 진행자 순서 : 김현도 -> 연정민 -> 전종혁 -> 김성진 <br>
 
@@ -74,6 +74,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 11주차 : 리스트, 배열, 연결리스트 공부, 백준  [1021 : 회전하는 큐], [1158 : 요세푸스 문제], [2346 : 풍선 터뜨리기], [5397 : 키로거] <br>
 12주차 : 스택, 큐, 덱 공부, 백준 [3015 : 오아시스 재결합], [3190 : 뱀], [5430 : AC], [17298 : 오큰수] <br>
 13주차 : BFS(Breadth First Search) 너비 우선 탐색 공부, 백준 [1012 : 유기농 배추], [2606 : 바이러스], [2667 : 단지번호 붙이기], [10026 : 적록색약] <br>
+14주차 : DFS(Depth First Search) 깊이 우선 탐색 공부, 백준 [1405 : 미친 로봇], [2468 : 안전영역], [2668 : 숫자 고르기], [11725 : 트리의 부모찾기] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -90,6 +91,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 11주차  |  [1021 : 회전하는 큐](https://www.acmicpc.net/problem/1021)   | [1158 : 요세푸스 문제](https://www.acmicpc.net/problem/1158) | [2346 : 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)  |[5397 : 키로거](https://www.acmicpc.net/problem/5397)||| 2020.10.15(목)
 | 12주차  |  [3015 : 오아시스 재결합](https://www.acmicpc.net/problem/3015)   | [3190 : 뱀](https://www.acmicpc.net/problem/3190) | [5430 : AC](https://www.acmicpc.net/problem/5430)  |[17298 : 오큰수](https://www.acmicpc.net/problem/17298)||| 2020.10.22(목)
 | 13주차  |  [1012 : 유기농 배추](https://www.acmicpc.net/problem/1012)   | [2606 : 바이러스](https://www.acmicpc.net/problem/2606) | [2667 : 단지번호 붙이기](https://www.acmicpc.net/problem/2667)  |[10026 : 적록색약](https://www.acmicpc.net/problem/10026)||| 2020.10.29(목)
+| 14주차  |  [1405 : 미친 로봇](https://www.acmicpc.net/problem/1405)   | [2468 : 안전영역](https://www.acmicpc.net/problem/2468) | [2668 : 숫자 고르기](https://www.acmicpc.net/problem/2668)  |[11725 : 트리의 부모찾기](https://www.acmicpc.net/problem/11725)||| 2020.11.04(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
