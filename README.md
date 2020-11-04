@@ -75,6 +75,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 12주차 : 스택, 큐, 덱 공부, 백준 [3015 : 오아시스 재결합], [3190 : 뱀], [5430 : AC], [17298 : 오큰수] <br>
 13주차 : BFS(Breadth First Search) 너비 우선 탐색 공부, 백준 [1012 : 유기농 배추], [2606 : 바이러스], [2667 : 단지번호 붙이기], [10026 : 적록색약] <br>
 14주차 : DFS(Depth First Search) 깊이 우선 탐색 공부, 백준 [1405 : 미친 로봇], [2468 : 안전영역], [2668 : 숫자 고르기], [11725 : 트리의 부모찾기] <br>
+15주차 : 백 트레킹(Back Tracking) [1941 : 소문난 칠공주], [2023 : 신기한 소수], [9663 : N-Queen], [14888 : 연산자 끼워넣기] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -92,6 +93,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 12주차  |  [3015 : 오아시스 재결합](https://www.acmicpc.net/problem/3015)   | [3190 : 뱀](https://www.acmicpc.net/problem/3190) | [5430 : AC](https://www.acmicpc.net/problem/5430)  |[17298 : 오큰수](https://www.acmicpc.net/problem/17298)||| 2020.10.22(목)
 | 13주차  |  [1012 : 유기농 배추](https://www.acmicpc.net/problem/1012)   | [2606 : 바이러스](https://www.acmicpc.net/problem/2606) | [2667 : 단지번호 붙이기](https://www.acmicpc.net/problem/2667)  |[10026 : 적록색약](https://www.acmicpc.net/problem/10026)||| 2020.10.29(목)
 | 14주차  |  [1405 : 미친 로봇](https://www.acmicpc.net/problem/1405)   | [2468 : 안전영역](https://www.acmicpc.net/problem/2468) | [2668 : 숫자 고르기](https://www.acmicpc.net/problem/2668)  |[11725 : 트리의 부모찾기](https://www.acmicpc.net/problem/11725)||| 2020.11.04(수)
+| 15주차  |  [1941 : 소문난 칠공주](https://www.acmicpc.net/problem/1941)   | [2023 : 신기한 소수](https://www.acmicpc.net/problem/2023) | [9663 : N-Queen](https://www.acmicpc.net/problem/9663)  |[14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)||| 2020.11.11(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
