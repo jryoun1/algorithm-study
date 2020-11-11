@@ -37,7 +37,6 @@ int main() {
 	//루트(1) 부터 시작
 	DFS(1);
 
-	
 	for (int i = 2; i <= N; i++)
 		cout << answer[i] << '\n';
 
