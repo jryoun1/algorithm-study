@@ -12,7 +12,7 @@
 
 ## 알고리즘 스터디 모임 일정 (2020.08.06 ~ )
 
-매주 수요일 오후 13:00-15:00 <del>목요일 오전 10:00-12:00</del> <br>
+매주 수요일 오후 11:00-13:00 <del>목요일 오전 10:00-12:00</del> <br>
 스터디 진행 순서 : 개념 10-15 분, 코드 리뷰 30-40분, 다음주 문제 정하기 20-30분 <br>
 진행자 순서 : 김현도 -> 연정민 -> 전종혁 -> 김성진 <br>
 
@@ -94,6 +94,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 13주차  |  [1012 : 유기농 배추](https://www.acmicpc.net/problem/1012)   | [2606 : 바이러스](https://www.acmicpc.net/problem/2606) | [2667 : 단지번호 붙이기](https://www.acmicpc.net/problem/2667)  |[10026 : 적록색약](https://www.acmicpc.net/problem/10026)||| 2020.10.29(목)
 | 14주차  |  [1405 : 미친 로봇](https://www.acmicpc.net/problem/1405)   | [2468 : 안전영역](https://www.acmicpc.net/problem/2468) | [2668 : 숫자 고르기](https://www.acmicpc.net/problem/2668)  |[11725 : 트리의 부모찾기](https://www.acmicpc.net/problem/11725)||| 2020.11.04(수)
 | 15주차  |  [1941 : 소문난 칠공주](https://www.acmicpc.net/problem/1941)   | [2023 : 신기한 소수](https://www.acmicpc.net/problem/2023) | [9663 : N-Queen](https://www.acmicpc.net/problem/9663)  |[14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)||| 2020.11.11(수)
+| 16주차  |  [2167 : 2차원 배열의 합](https://www.acmicpc.net/problem/2167)   | [2559 : 수열](https://www.acmicpc.net/problem/2559) | [11659 : 구간 합 구하기4](https://www.acmicpc.net/problem/11659)  |[11660 : 구간 합 구하기5](https://www.acmicpc.net/problem/11660)||| 2020.11.18(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
