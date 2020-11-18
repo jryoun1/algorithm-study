@@ -24,18 +24,16 @@ void DFS(int x, int y) {
 		DFS( x - 1, y);
 	if (mem[y][x + 1] > a)
 		DFS( x + 1, y);
-
 	return;
 }
-
 
 int main()
 {	
 	int ans = 0;
 	int max = 0;
 
+	//input
 	cin >> N;
-
 	for (int i = 0; i < N; i++)
 	{
 		for (int j = 0; j < N; j++)
@@ -44,7 +42,7 @@ int main()
 		}
 	}
 
-
+	//max 값 설정
 	for (int i = 0; i < N; i++)
 	{
 		for (int j = 0; j < N; j++)
@@ -54,6 +52,7 @@ int main()
 		}
 	}
 
+	//mem값 초기화
 	for (a = 1; a < max+1; a++) {
 
 		int count = 0;
@@ -61,8 +60,7 @@ int main()
 			for (int j = 0; j < N; j++)
 				mem[i][j] = map[i][j];
 		
-
-
+		//count : 안전 영역 개수
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				if (mem[i][j] > a) {
@@ -72,12 +70,13 @@ int main()
 			}
 		}
 
-		
-
+		//안전 영역중 최대값을 ans에 저장
 		if (count > ans)
 			ans = count;
 	}
 
+	//조건 : 아무 지역도 물에 잠기지 않을 수도 있다.
+	//(높이 = 0)비가 오지 않았을 경우도 포함 시킴
 	if (ans == 0)
 		cout << 1;
 	else

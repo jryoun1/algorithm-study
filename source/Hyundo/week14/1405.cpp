@@ -21,7 +21,7 @@ double DFS(int x, int y, int Cnt)
 
 	double Result = 0.0;
 
-	//상화좌우 이동
+	//상하좌우 이동
 	for (int i = 0; i < 4; i++)
 	{
 		int nx = x + dx[i];
