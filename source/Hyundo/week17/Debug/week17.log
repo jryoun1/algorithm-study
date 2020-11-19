@@ -1,0 +1,4 @@
+﻿  1644.cpp
+C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week17\1644.cpp(35,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week17\1644.cpp(52,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  week17.vcxproj -> C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week17\Debug\week17.exe

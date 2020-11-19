@@ -5,7 +5,6 @@ using namespace std;
 int sum[MAX][MAX];
 
 int main(void)
-
 {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
@@ -19,8 +18,6 @@ int main(void)
 			cin >> num;
 
 			sum[i + 1][j + 1] = sum[i + 1][j] + sum[i][j + 1] - sum[i][j] + num;
-
-
 		}
 
 	for (int i = 0; i < M; i++)
