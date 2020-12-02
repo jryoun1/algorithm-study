@@ -79,6 +79,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 16주차 : 구간 합 배열(Prefix Sum) [13398 : 연속합 2], [2559 : 수열], [11659 : 구간 합 구하기4],[11660 : 구간 합 구하기5] <br>
 17주차 : 에라토스테네스의 체(Sieve of Eratosthenes) [1644 : 소수의 연속합], [1747 : 소수&팰린드롬], [1963 : 소수 경로], [2312 : 수 복원하기] <br>
 18주차 : 투 포인터(Two pointer), 슬라이딩 윈도우(Sliding Window) [2003 : 수들의 합2], [2096 : 내려가기], [2531 : 회전초밥], [11728 : 배열 합치기] <br>
+19주차 : 다익스트라 알고리즘(dijkstra) [1753 : 최단경로], [1916 : 최소비용 구하기], [4485 : 녹색 옷 입은 애가 젤다지?], [18352 : 특정 거리의 도시찾기] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -100,6 +101,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 16주차  |  [13398 : 연속합 2](https://www.acmicpc.net/problem/13398)   | [2559 : 수열](https://www.acmicpc.net/problem/2559) | [11659 : 구간 합 구하기4](https://www.acmicpc.net/problem/11659)  |[11660 : 구간 합 구하기5](https://www.acmicpc.net/problem/11660)||| 2020.11.18(수)
 | 17주차  |  [1644 : 소수의 연속합](https://www.acmicpc.net/problem/1644)   | [1747 : 소수&팰린드롬](https://www.acmicpc.net/problem/1747) | [1963 : 소수 경로](https://www.acmicpc.net/problem/1963)  |[2312 : 수 복원하기](https://www.acmicpc.net/problem/2312)||| 2020.11.25(수)
 | 18주차  |  [2003 : 수들의 합2](https://www.acmicpc.net/problem/2003)   | [2096 : 내려가기](https://www.acmicpc.net/problem/2096) | [2531 : 회전초밥](https://www.acmicpc.net/problem/2531)  |[11728 : 배열 합치기](https://www.acmicpc.net/problem/11728)||| 2020.12.02(수)
+| 19주차  |  [1753 : 최단경로](https://www.acmicpc.net/problem/1753)   | [1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [4485 : 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)  |[18352 : 특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)||| 2020.12.09(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
