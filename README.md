@@ -103,7 +103,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 17주차  |  [1644 : 소수의 연속합](https://www.acmicpc.net/problem/1644)   | [1747 : 소수&팰린드롬](https://www.acmicpc.net/problem/1747) | [1963 : 소수 경로](https://www.acmicpc.net/problem/1963)  |[2312 : 수 복원하기](https://www.acmicpc.net/problem/2312)||| 2020.11.25(수)
 | 18주차  |  [2003 : 수들의 합2](https://www.acmicpc.net/problem/2003)   | [2096 : 내려가기](https://www.acmicpc.net/problem/2096) | [2531 : 회전초밥](https://www.acmicpc.net/problem/2531)  |[11728 : 배열 합치기](https://www.acmicpc.net/problem/11728)||| 2020.12.02(수)
 | 19주차  |  [1753 : 최단경로](https://www.acmicpc.net/problem/1753)   | [1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [4485 : 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)  |[18352 : 특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)||| 2020.12.09(수)
-| 20주차  |  [1219 : 오만식의 고민](https://www.acmicpc.net/problem/1219) | [1865 : 웜홀](https://www.acmicpc.net/problem/1865) | [11657 : 타임머신](https://www.acmicpc.net/problem/11657) ||| 2020.12.16(수)
+| 20주차  |  [1219 : 오만식의 고민](https://www.acmicpc.net/problem/1219) | [1865 : 웜홀](https://www.acmicpc.net/problem/1865) | [11657 : 타임머신](https://www.acmicpc.net/problem/11657) | ||| 2020.12.16(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
