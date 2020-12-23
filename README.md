@@ -69,7 +69,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 6주차 : 그리디 알고리즘 (Greedy Algorithm) 공부, 백준 [13904 : 과제], [4796 : 캠핑], [1449 : 수리공 항승], [1520 : 내리막길] 문제풀기 <br>
 7주차 : 분할 정복 알고리즘 (Divide and Conquer) 공부, 백준 [2104 : 부분배열 고르기], [1725 : 히스토그램], [1992 : 쿼드트리], [1074 : Z] 문제풀기 <br>
 8주차 : 동적계획법 (Dynamic Programming) 공부, 백준 [2098 : 외판원 순회], [2156 : 포도주 시식], [10942 : 팰린드롬], [10844 : 쉬운 계단수] 문제풀기 <br>
-9주차 : <<추석연휴>> 복습 및 휴식 <br>
+9주차 : <<추석 연휴>> 복습 및 휴식 <br>
 10주차 : 이분탐색 (Binary Search) 공부, 백준 [1300 : K번째 수], [2343 : 기타레슨], [3020 : 개똥벌레], [14003 : 가장 긴 증가하는 부분 수열5] 문제풀기 <br>
 11주차 : 리스트, 배열, 연결리스트 공부, 백준  [1021 : 회전하는 큐], [1158 : 요세푸스 문제], [2346 : 풍선 터뜨리기], [5397 : 키로거] <br>
 12주차 : 스택, 큐, 덱 공부, 백준 [3015 : 오아시스 재결합], [3190 : 뱀], [5430 : AC], [17298 : 오큰수] <br>
@@ -82,6 +82,8 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 19주차 : 다익스트라 알고리즘(dijkstra) [1753 : 최단경로], [1916 : 최소비용 구하기], [4485 : 녹색 옷 입은 애가 젤다지?], [18352 : 특정 거리의 도시찾기] <br>
 20주차 : 벨만포드(Bellman-Ford) 알고리즘 [1219 : 오만식의 고민], [1865 : 웜홀], [11657 : 타임머신] <br>
 21주차 : 플로이드 와샬(Floyd-Warshall)알고리즘 [1389 : 케빈 베이컨의 6단계 법칙], [2458 : 키순서], [11403 : 경로찾기], [11404 : 플로이드] <br>
+22주차 : <<연말 연휴> <br>
+23주차 : 트리 (tree), [1068 : 트리], [1167 : 트리의 지름], [1991 : 트리 순회], [5639 : 이진 검색 트리] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -106,6 +108,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 19주차  |  [1753 : 최단경로](https://www.acmicpc.net/problem/1753)   | [1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [4485 : 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)  |[18352 : 특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)||| 2020.12.09(수)
 | 20주차  |  [1219 : 오만식의 고민](https://www.acmicpc.net/problem/1219) | [1865 : 웜홀](https://www.acmicpc.net/problem/1865) | [11657 : 타임머신](https://www.acmicpc.net/problem/11657) | ||| 2020.12.16(수)
 | 21주차  |  [1389 : 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)   | [2458 : 키순서](https://www.acmicpc.net/problem/2458) | [11403 : 경로찾기](https://www.acmicpc.net/problem/11403)  |[11404 : 플로이드](https://www.acmicpc.net/problem/11404)||| 2020.12.23(수)
+| 23주차  |  [1068 : 트리](https://www.acmicpc.net/problem/1068)   | [1167 : 트리의 지름](https://www.acmicpc.net/problem/1167) | [1991 : 트리 순회](https://www.acmicpc.net/problem/1991)  |[5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)||| 2020.01.06(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
