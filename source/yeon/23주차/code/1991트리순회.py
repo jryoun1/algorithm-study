@@ -7,8 +7,6 @@ class Node:
         self.left = left
         self.right = right
         self.data = data
-    def printTree(self):
-        print(self.data)
 
 def preorder(node):
     print(node.data, end="")
@@ -31,7 +29,6 @@ def postorder(node):
         postorder(tree[node.right])
     print(node.data, end="")
     
-
 N = int(input())
 tree = {}
 for _ in range(N):
