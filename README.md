@@ -84,6 +84,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 21주차 : 플로이드 와샬(Floyd-Warshall)알고리즘 [1389 : 케빈 베이컨의 6단계 법칙], [2458 : 키순서], [11403 : 경로찾기], [11404 : 플로이드] <br>
 22주차 : <<연말 연휴> <br>
 23주차 : 트리 (tree), [1068 : 트리], [1167 : 트리의 지름], [1991 : 트리 순회], [5639 : 이진 검색 트리] <br>
+24주차 : DP 복습 문제풀기 [1010 : 다리놓기], [14501 : 퇴사], [9461 : 파도반 수열], [2293 : 동전1], [1965 : 상자넣기] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -109,6 +110,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 20주차  |  [1219 : 오만식의 고민](https://www.acmicpc.net/problem/1219) | [1865 : 웜홀](https://www.acmicpc.net/problem/1865) | [11657 : 타임머신](https://www.acmicpc.net/problem/11657) | ||| 2020.12.16(수)
 | 21주차  |  [1389 : 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)   | [2458 : 키순서](https://www.acmicpc.net/problem/2458) | [11403 : 경로찾기](https://www.acmicpc.net/problem/11403)  |[11404 : 플로이드](https://www.acmicpc.net/problem/11404)||| 2020.12.23(수)
 | 23주차  |  [1068 : 트리](https://www.acmicpc.net/problem/1068)   | [1167 : 트리의 지름](https://www.acmicpc.net/problem/1167) | [1991 : 트리 순회](https://www.acmicpc.net/problem/1991)  |[5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)||| 2020.01.06(수)
+| 24주차  |  [1010 : 다리놓기](https://www.acmicpc.net/problem/1010)   | [14501 : 퇴사](https://www.acmicpc.net/problem/14501) | [9461 : 파도반 수열](https://www.acmicpc.net/problem/9461)  |[2293 : 동전1](https://www.acmicpc.net/problem/2293)|[1965 : 상자넣기](https://www.acmicpc.net/problem/1965)|| 2020.01.13(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
