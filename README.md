@@ -111,6 +111,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 21주차  |  [1389 : 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)   | [2458 : 키순서](https://www.acmicpc.net/problem/2458) | [11403 : 경로찾기](https://www.acmicpc.net/problem/11403)  |[11404 : 플로이드](https://www.acmicpc.net/problem/11404)||| 2020.12.23(수)
 | 23주차  |  [1068 : 트리](https://www.acmicpc.net/problem/1068)   | [1167 : 트리의 지름](https://www.acmicpc.net/problem/1167) | [1991 : 트리 순회](https://www.acmicpc.net/problem/1991)  |[5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)||| 2020.01.06(수)
 | 24주차  |  [1010 : 다리놓기](https://www.acmicpc.net/problem/1010)   | [14501 : 퇴사](https://www.acmicpc.net/problem/14501) | [9461 : 파도반 수열](https://www.acmicpc.net/problem/9461)  |[2293 : 동전1](https://www.acmicpc.net/problem/2293)|[1965 : 상자넣기](https://www.acmicpc.net/problem/1965)|| 2020.01.13(수)
+| 25주차  |  [1717 : 집합의 표현](https://www.acmicpc.net/problem/1717)| [1976 : 여행 가자](https://www.acmicpc.net/problem/1976) | [10216 : Count Circle Groups](https://www.acmicpc.net/problem/10216) | [16562 : 친구비](https://www.acmicpc.net/problem/16562) ||| 2020.01.20(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
