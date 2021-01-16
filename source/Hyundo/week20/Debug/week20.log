@@ -1,0 +1,5 @@
+﻿  11657-2.cpp
+C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week20\11657-2.cpp(29,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week20\11657-2.cpp(41,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week20\11657-2.cpp(53,10): error C2561:  'main': 함수는 값을 반환해야 합니다.
+C:\Users\kk090\Documents\GitHub\algorithm-study\source\Hyundo\week20\11657-2.cpp(13): message :  'main' 선언을 참조하십시오.
