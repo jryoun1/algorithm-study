@@ -22,10 +22,12 @@ void merge(int a, int b) {
 	if (x == y)
 		return;
 
-	if (level[x] > level[y])
+	if (level[x] > level[y]) {
 		root[y] = x;
-	else
+	}
+	else {
 		root[x] = y;
+	}
 
 	if (level[x] == level[y])
 		++level[y];
@@ -47,11 +49,13 @@ int main() {
 		cin >> c >> a >> b;
 		if (c == 1)
 		{
+			//1 a b 형태의 입력 : 두 원소가 같은 집합에 포함되어 있는지 확인
 			if (find(a) == find(b))
 				cout << "YES" << "\n";
 			else
 				cout << "NO" << "\n";
 		}
+			//0 a b 형태의 입력 : a가 포함되어 있는 집합과 b가 포함되어 있는 집합을 합침
 		else
 			merge(a, b);
 	}

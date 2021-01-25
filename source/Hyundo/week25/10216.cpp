@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//각 진영의 x, y, r 을 담고 있는 클래스
 class camp {
 public:
 	int x, y, r;
@@ -48,6 +49,7 @@ int main() {
 		}
 
 		int cnt = 0;
+		//모든 진영에 대하여 서로 비교하여 merge 여부 확인
 		for (int i = 0; i < n; ++i) {
 			for (int j = i + 1; j < n; ++j) {
 				int x = c[i].x - c[j].x;

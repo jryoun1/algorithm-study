@@ -9,7 +9,6 @@ int root[MAX];
 void init() {
 	for (int i = 1; i <= N; i++)
 		root[i] = i;
-
 }
 
 int find(int i) {
@@ -17,7 +16,6 @@ int find(int i) {
 		return i;
 	else
 		return root[i] = find(root[i]);
-
 }
 
 void merge(int a, int b) {
@@ -37,6 +35,7 @@ int main() {
 		for (int j = 1; j <= N; j++) {
 			int tmp;
 			cin >> tmp;
+			//1이 입력된 (i,j) 연결 정보에 대하여 merge
 			if (tmp == 1)
 				merge(i, j);
 		}
