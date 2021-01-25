@@ -39,9 +39,7 @@ void merge(int a, int b) {
 
 
 int main() {
-
 	cin >> N >> M >> k;
-
 	init();
 
 	for (int i = 1; i <= N; i++)
