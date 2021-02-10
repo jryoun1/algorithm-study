@@ -88,6 +88,8 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 25주차 : Union-Find 개념 문제 풀기 [1717 : 집합의 표현], [1976 : 여행 가자], [10216 : Count Circle Groups], [16562 : 친구비] <br>
 26주차 : Segment Tree 개념, 문제 풀기 [2042 : 구간 합 구하기], [2357 : 최솟값과 최댓값], [10868 : 최솟값], [11505 : 구간 곱 구하기] <br>
 27주차 : 트리 문제들 풀기 [2243 : 사탕상자], [5052 : 전화번호 목록], [9372 : 상근이의 여행], [12837 : 가계부] <br>
+<<설날 주 연휴>> <br>
+28주차 : [1931 : 회의실 배정], [1080 : 행렬], [2217 : 로프], [2847 : 게임으 만든 동준이] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -117,6 +119,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 25주차  |  [1717 : 집합의 표현](https://www.acmicpc.net/problem/1717)| [1976 : 여행 가자](https://www.acmicpc.net/problem/1976) | [10216 : Count Circle Groups](https://www.acmicpc.net/problem/10216) | [16562 : 친구비](https://www.acmicpc.net/problem/16562) ||| 2020.01.20(수)
 | 26주차  |  [2042 : 구간 합 구하기](https://www.acmicpc.net/problem/2042)| [2357 : 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | [10868 : 최솟값](https://www.acmicpc.net/problem/10868) | [11505 : 구간 곱 구하기](https://www.acmicpc.net/problem/11505) ||| 2020.01.27(수)
 | 27주차  |  [2243 : 사탕상자](https://www.acmicpc.net/problem/2243)| [5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052) | [9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372) | [12837 : 가계부](https://www.acmicpc.net/problem/12837) ||| 2020.02.03(수)
+| 28주차  |  [1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)| [1080 : 행렬](https://www.acmicpc.net/problem/1080) | [2217 : 로프](https://www.acmicpc.net/problem/2217) | [2847 : 게임으 만든 동준이](https://www.acmicpc.net/problem/2847) ||| 2020.02.17(수)
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
 - [TehCopens/algorithm-study](https://github.com/TheCopiens/algorithm-study/blob/master/README.md) <br>
