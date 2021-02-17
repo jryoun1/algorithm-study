@@ -9,6 +9,7 @@ long long arr[MAX];  //주어진 배열
 long long tree[MAX * 4]; //주어진 배열을 통해 만들어진 세그먼트 트리를 저장하는 배열
 
 long long init(int node, int start, int end) {
+	//리프노드
 	if (start == end) return tree[node] = arr[start] % MODULER;
 	int mid = (start + end) / 2;
 	return tree[node] = (init(node * 2, start, mid) * init(node * 2 + 1, mid + 1, end)) % MODULER;
@@ -27,8 +28,11 @@ long long sum(int left, int right, int node, int start, int end) {
 }
 
 long long update(int node, int start, int end, int index, long long num) {
+	//범위 내에 포함되지 않는 경우 : update과정없이 반환
 	if (index < start || index > end) return tree[node];
+	//리프 노드에 도달한 경우 : update과정 진행
 	if (start == end) return tree[node] = num;
+	//다른 경우 : 하위 트리에서 index에 해당하는 update진행 후 그 결과를 tree에 다시 초기화
 	int mid = (start + end) / 2;
 	return tree[node]=(update(node * 2, start, mid, index, num) * update(node * 2 + 1, mid + 1, end, index, num))%MODULER;
 	
