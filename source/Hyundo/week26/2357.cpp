@@ -12,6 +12,7 @@ long long treeMin[MAX * 4];
 long long treeMax[MAX * 4];
 
 
+//treeMin에는 하위노드중 최솟값을 treeMax에는 하위 노드 중 최댓값을 저장 
 void init(int left, int right, int node) {
 	if (left == right) {
 		treeMin[node] = treeMax[node] = arr[left];
