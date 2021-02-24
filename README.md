@@ -123,7 +123,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 27주차  |  [2243 : 사탕상자](https://www.acmicpc.net/problem/2243)| [5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052) | [9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372) | [12837 : 가계부](https://www.acmicpc.net/problem/12837) ||| 2021.02.03(수)
 | 28주차  |  [1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)| [1080 : 행렬](https://www.acmicpc.net/problem/1080) | [2217 : 로프](https://www.acmicpc.net/problem/2217) | [2847 : 게임으 만든 동준이](https://www.acmicpc.net/problem/2847) ||| 2021.02.17(수)
 | 29주차  |  [1058 : 친구](https://www.acmicpc.net/problem/1058)| [1254 : 팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [1759 : 암호 만들기](https://www.acmicpc.net/problem/1759) | [2529 : 부등호](https://www.acmicpc.net/problem/2529) ||| 2021.02.24(수)
-| 30주차  |  [1238 : 파티](https://www.acmicpc.net/problem/1238)| [1446 : 지름길](https://www.acmicpc.net/problem/1446) | [14496 : 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ||| 2021.03.03(수)
+| 30주차  |  [1238 : 파티](https://www.acmicpc.net/problem/1238)| [1446 : 지름길](https://www.acmicpc.net/problem/1446) | [14496 : 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) | ||| 2021.03.03(수)
 
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
