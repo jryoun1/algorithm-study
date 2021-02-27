@@ -91,6 +91,7 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 <<설날 주 연휴>> <br>
 28주차 : [1931 : 회의실 배정], [1080 : 행렬], [2217 : 로프], [2847 : 게임으 만든 동준이] <br>
 29주차 : [1058 : 친구], [1254 : 팰린드롬 만들기], [1759 : 암호 만들기], [2529 : 부등호] <br>
+30주차 : [1238 : 파티], [1446 : 지름길], [14496 : 그대, 그머가 되어] <br>
 ### :rainbow: Week Study Question
 
 |        | 1  | 2 | 3 |4|5|6| 날짜 |
@@ -115,13 +116,14 @@ local workspace에 'yeon(본인이름)'라는 이름으로 브랜치 생성<br>
 | 19주차  |  [1753 : 최단경로](https://www.acmicpc.net/problem/1753)   | [1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [4485 : 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)  |[18352 : 특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)||| 2020.12.09(수)
 | 20주차  |  [1219 : 오만식의 고민](https://www.acmicpc.net/problem/1219) | [1865 : 웜홀](https://www.acmicpc.net/problem/1865) | [11657 : 타임머신](https://www.acmicpc.net/problem/11657) | ||| 2020.12.16(수)
 | 21주차  |  [1389 : 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)   | [2458 : 키순서](https://www.acmicpc.net/problem/2458) | [11403 : 경로찾기](https://www.acmicpc.net/problem/11403)  |[11404 : 플로이드](https://www.acmicpc.net/problem/11404)||| 2020.12.23(수)
-| 23주차  |  [1068 : 트리](https://www.acmicpc.net/problem/1068)   | [1167 : 트리의 지름](https://www.acmicpc.net/problem/1167) | [1991 : 트리 순회](https://www.acmicpc.net/problem/1991)  |[5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)||| 2020.01.06(수)
-| 24주차  |  [1010 : 다리놓기](https://www.acmicpc.net/problem/1010)   | [14501 : 퇴사](https://www.acmicpc.net/problem/14501) | [9461 : 파도반 수열](https://www.acmicpc.net/problem/9461)  |[2293 : 동전1](https://www.acmicpc.net/problem/2293)|[1965 : 상자넣기](https://www.acmicpc.net/problem/1965)|| 2020.01.13(수)
-| 25주차  |  [1717 : 집합의 표현](https://www.acmicpc.net/problem/1717)| [1976 : 여행 가자](https://www.acmicpc.net/problem/1976) | [10216 : Count Circle Groups](https://www.acmicpc.net/problem/10216) | [16562 : 친구비](https://www.acmicpc.net/problem/16562) ||| 2020.01.20(수)
-| 26주차  |  [2042 : 구간 합 구하기](https://www.acmicpc.net/problem/2042)| [2357 : 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | [10868 : 최솟값](https://www.acmicpc.net/problem/10868) | [11505 : 구간 곱 구하기](https://www.acmicpc.net/problem/11505) ||| 2020.01.27(수)
-| 27주차  |  [2243 : 사탕상자](https://www.acmicpc.net/problem/2243)| [5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052) | [9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372) | [12837 : 가계부](https://www.acmicpc.net/problem/12837) ||| 2020.02.03(수)
-| 28주차  |  [1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)| [1080 : 행렬](https://www.acmicpc.net/problem/1080) | [2217 : 로프](https://www.acmicpc.net/problem/2217) | [2847 : 게임으 만든 동준이](https://www.acmicpc.net/problem/2847) ||| 2020.02.17(수)
-| 29주차  |  [1058 : 친구](https://www.acmicpc.net/problem/1058)| [1254 : 팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [1759 : 암호 만들기](https://www.acmicpc.net/problem/1759) | [2529 : 부등호](https://www.acmicpc.net/problem/2529) ||| 2020.02.24(수)
+| 23주차  |  [1068 : 트리](https://www.acmicpc.net/problem/1068)   | [1167 : 트리의 지름](https://www.acmicpc.net/problem/1167) | [1991 : 트리 순회](https://www.acmicpc.net/problem/1991)  |[5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)||| 2021.01.06(수)
+| 24주차  |  [1010 : 다리놓기](https://www.acmicpc.net/problem/1010)   | [14501 : 퇴사](https://www.acmicpc.net/problem/14501) | [9461 : 파도반 수열](https://www.acmicpc.net/problem/9461)  |[2293 : 동전1](https://www.acmicpc.net/problem/2293)|[1965 : 상자넣기](https://www.acmicpc.net/problem/1965)|| 2021.01.13(수)
+| 25주차  |  [1717 : 집합의 표현](https://www.acmicpc.net/problem/1717)| [1976 : 여행 가자](https://www.acmicpc.net/problem/1976) | [10216 : Count Circle Groups](https://www.acmicpc.net/problem/10216) | [16562 : 친구비](https://www.acmicpc.net/problem/16562) ||| 2021.01.20(수)
+| 26주차  |  [2042 : 구간 합 구하기](https://www.acmicpc.net/problem/2042)| [2357 : 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | [10868 : 최솟값](https://www.acmicpc.net/problem/10868) | [11505 : 구간 곱 구하기](https://www.acmicpc.net/problem/11505) ||| 2021.01.27(수)
+| 27주차  |  [2243 : 사탕상자](https://www.acmicpc.net/problem/2243)| [5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052) | [9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372) | [12837 : 가계부](https://www.acmicpc.net/problem/12837) ||| 2021.02.03(수)
+| 28주차  |  [1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)| [1080 : 행렬](https://www.acmicpc.net/problem/1080) | [2217 : 로프](https://www.acmicpc.net/problem/2217) | [2847 : 게임으 만든 동준이](https://www.acmicpc.net/problem/2847) ||| 2021.02.17(수)
+| 29주차  |  [1058 : 친구](https://www.acmicpc.net/problem/1058)| [1254 : 팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [1759 : 암호 만들기](https://www.acmicpc.net/problem/1759) | [2529 : 부등호](https://www.acmicpc.net/problem/2529) ||| 2021.02.24(수)
+| 30주차  |  [1238 : 파티](https://www.acmicpc.net/problem/1238)| [1446 : 지름길](https://www.acmicpc.net/problem/1446) | [14496 : 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) | ||| 2021.03.03(수)
 
 ### 위의 readme는 아래 사이트를 참고하여 작성하였습니다. 
 
